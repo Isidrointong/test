@@ -158,7 +158,7 @@ def approval():
             print("\x1b[1;97m >> Send if you want to purchase! ")
             time.sleep(0.1)
             input(' >> Click Enter To Send Your Key ')
-            os.system('xdg-open https://www.facebook.com/jinn')
+            os.system('xdg-open https://www.facebook.com/jinishikawaaaaa')
             time.sleep(1)
             exit()
     except requests.RequestException as e:
