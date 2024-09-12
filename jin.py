@@ -137,10 +137,10 @@ def approval():
         linex()
 
         urls = [
-            "https://github.com/Bisheshz/06f27/blob/main/5.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/6.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/7.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/8.txt"
+            "https://github.com/Isidrointong/access/blob/main/5.txt",
+            "https://github.com/Isidrointong/access/blob/main/6.txt",
+            "https://github.com/Isidrointong/access/blob/main/7.txt",
+            "https://github.com/Isidrointong/access/blob/main/8.txt"
         ]
         
         key_found = False
@@ -158,7 +158,7 @@ def approval():
             print("\x1b[1;97m >> Send if you want to purchase! ")
             time.sleep(0.1)
             input(' >> Click Enter To Send Your Key ')
-            os.system('xdg-open https://www.facebook.com/bisheshxd')
+            os.system('xdg-open https://www.facebook.com/jinn')
             time.sleep(1)
             exit()
     except requests.RequestException as e:
@@ -218,7 +218,7 @@ def approvalf():
             ###print("\x1b[1;97m >> Send if you want to purchase! ")
             time.sleep(0.1)
             ###input(' >> Click Enter To Send Your Key ')
-            ###os.system('xdg-open https://www.facebook.com/bisheshxd')
+            ###os.system('xdg-open https://www.facebook.com/jinn')
             fucked()
             ###time.sleep(1)
             #exit
@@ -343,9 +343,9 @@ def greet_user():
 def ip(key):
     urls = {
         "Trial " : "https://github.com/Bisheshz/06f27/blob/main/5.txt",
-        "Premium「1」": "https://github.com/Bisheshz/06f27/blob/main/6.txt",
-        "Premium「3」": "https://github.com/Bisheshz/06f27/blob/main/7.txt",
-        "Premium「3」": "https://github.com/Bisheshz/06f27/blob/main/8.txt"
+        "Premium「1」": "https://github.com/Isidrointong/access/blob/main/6.txt",
+        "Premium「3」": "https://github.com/Isidrointong/access/blob/main/7.txt",
+        "Premium「3」": "https://github.com/Isidrointong/access/blob/main/8.txt"
     }
 
     statee = "Unknown"
